@@ -1,0 +1,32 @@
+
+prof-a:
+    display_name: "NAME A"
+    role: Role1
+    image: /img/people/scott.png
+prof-b:
+    display_name: "NAME B"
+    role: role2
+    image: /img/people/prof-x.png
+    github: profx
+    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    bio: 'bio'
+
+prof-c:
+    display_name: "Name C"
+    role: role1
+    image: /img/people/storm.png
+
+prof-d:
+    display_name: "Name D"
+    role: role1
+    image: /img/people/scott.png
+
+prof-e:
+    display_name: "Name E"
+    role: role2
+    image: /img/people/prof-x.png
+
+prof-f:
+    display_name: "Name F"
+    role: role1
+    image: /img/people/storm.png
